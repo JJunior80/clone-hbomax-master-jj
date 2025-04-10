@@ -112,5 +112,5 @@ Quer sugerir melhorias ou testar sua própria versão?
 Este projeto é livre para estudo e uso educacional. Os direitos sobre a marca HBO Max pertencem à WarnerMedia.
 
 ---
-Desenvolvido ⌨️ com ❤️ por [Michele Ambrosio](https://github.com/micheleambrosio) 😊)
+Desenvolvido ⌨️ com ❤️ por [Michele Ambrosio](https://github.com/micheleambrosio) 😊
 # clone-hbomax-master-jj
